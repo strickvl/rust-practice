@@ -8,5 +8,8 @@ fn main() {
     println!("The value of PI is {}", MYPI);
     println!("In the game {0} you start with {1} % health, yes you read correctly: {1} points!", GAME_NAME, MAX_HEALTH);
     println!("The address of PI is {:p}", &MYPI);
+
+    let octal_pi = format!("The number is {:?}", 13);
+    println!("{}", octal_pi)
 }
 
