@@ -1,6 +1,10 @@
 DON'T EDIT THIS FILE!
 
+<<<<<<< Updated upstream
 quiz1
+=======
+if3
+>>>>>>> Stashed changes
 
 intro1
 intro2
@@ -16,5 +20,9 @@ functions3
 functions4
 functions5
 if1
+<<<<<<< Updated upstream
 if2
 if3
+=======
+if2
+>>>>>>> Stashed changes
