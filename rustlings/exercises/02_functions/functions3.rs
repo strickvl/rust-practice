@@ -6,9 +6,5 @@ fn call_me(num: u8) {
 
 fn main() {
     // TODO: Fix the function call.
-<<<<<<< Updated upstream
-    call_me(5);
-=======
     call_me(3);
->>>>>>> Stashed changes
 }
