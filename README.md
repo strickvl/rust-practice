@@ -1,4 +1,4 @@
-# Rust Practice
+# Rust Practice (DEPRECATED AND ARCHIVED)
 
 This repository contains code and markdown files for various books and projects
 while I'm learning Rust.
